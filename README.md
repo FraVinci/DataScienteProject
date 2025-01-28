@@ -1,4 +1,4 @@
-# patient Readmission Prediction (Diabetes)
+# Patient Readmission Prediction (Diabetes)
 Final project of the course "Introduction to Data Science" in the academic year 2024/2025 at the University of Stavanger.
 
 ## Project Goal
